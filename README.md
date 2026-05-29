@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Dilene 👋
 
-💻 Desenvolvedora em formação  
+💻 Desenvolvedora full stack em formação  
 🚀 Construindo minha jornada na tecnologia através de estudos, projetos e aprendizado contínuo  
 📚 Explorando desenvolvimento web e novas tecnologias  
 
@@ -47,7 +47,7 @@ Acredito no aprendizado constante e no poder da tecnologia para transformar idei
 
 ## 📌 Projetos em destaque
 
-✨ ( Em constante construção! )  
+( Em constante construção! ) ✨
 Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios e evolução na área de tecnologia.
 
 ### Landing Page 
@@ -100,13 +100,13 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
 
 ## 🌎 Onde me encontrar
 
-<p align="center">
+<p align="left">
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/dilene-carvalho/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="20"
+      width="50"
       style="margin: 10px; transition: transform 0.3s;"
       onmouseover="this.style.transform='scale(1.2)'"
       onmouseout="this.style.transform='scale(1)'"
