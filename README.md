@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Olá, eu sou a Dilene 👋
 
@@ -34,7 +34,7 @@ Acredito no aprendizado constante e no poder da tecnologia para transformar idei
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <div align="center">
 
@@ -43,13 +43,14 @@ Acredito no aprendizado constante e no poder da tecnologia para transformar idei
 </div>
 
 ---
+-->
 
 ## 📌 Projetos em destaque
 
 ✨ ( Em constante construção! )  
 Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios e evolução na área de tecnologia.
 
-### 🔹 Landing Page 
+### Landing Page 
 
 Projeto desenvolvido com HTML e CSS, responsivo para Mobile, onde foi praticado diversos conceitos como Âncoras, Menus, Listas e Abreviações, dentre outros.
 
@@ -62,7 +63,7 @@ Projeto desenvolvido com HTML e CSS, responsivo para Mobile, onde foi praticado 
 
 --- 
 
-### 🔹 Portifólio responsivo 
+### Portifólio responsivo 
 
 Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, onde foi praticado responsividade, estrutura de múltiplas seções, organização de conteúdo com Grid Layout e Flexbox, além do uso da opção "Modo Escuro". 
 
@@ -75,7 +76,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, ond
 
 ---
 
-### 🔹 Tela de Login (UI) 
+### Tela de Login (UI) 
 
 Projeto de interface de login desenvolvido com HTML e CSS, com foco em estruturação de formulários e layouts de telas de autenticação. 
 
@@ -89,12 +90,12 @@ Projeto de interface de login desenvolvido com HTML e CSS, com foco em estrutura
 
 
 
-## 🚀 Eventos, Cursos e Certificações
+<!-- ## 🚀 Eventos, Cursos e Certificações
 
 Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, desenvolvimento e inovação.
 
 📚 
-
+-->
 ---
 
 ## 🌎 Onde me encontrar
@@ -105,14 +106,14 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
   <a href="https://linkedin.com/in/dilene-carvalho/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="50"
+      width="20"
       style="margin: 10px; transition: transform 0.3s;"
       onmouseover="this.style.transform='scale(1.2)'"
       onmouseout="this.style.transform='scale(1)'"
     />
   </a>
 
-  <!-- Outlook / Microsoft Email -->
+  <!-- Outlook / Microsoft Email 
   <a href="mailto:dilenecarvalhoh@hotmail.com">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"
@@ -123,7 +124,7 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
     />
   </a>
 
-  <!-- WhatsApp -->
+   WhatsApp 
   <a href="https://wa.me/5534984316169" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg"
@@ -135,7 +136,7 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
   </a>
 
 </p>
-
+-->
 
 
 ---
