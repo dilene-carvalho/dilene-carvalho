@@ -48,6 +48,7 @@ Acredito no aprendizado constante e no poder da tecnologia para transformar idei
 ## 📌 Projetos em destaque
 
 ( Em constante construção! ) ✨
+
 Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios e evolução na área de tecnologia.
 
 ### Landing Page 
