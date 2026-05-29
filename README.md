@@ -58,7 +58,7 @@ Projeto desenvolvido com HTML e CSS, responsivo para Mobile, onde foi praticado 
 🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/desafio_10/)
 
 #### Preview:
-<img src="https://raw.githubusercontent.com/dilene-carvalho/estudos/blob/main/desafio_10/imagens/preview_desafio_10.png" width="300">
+<img src="imagens/preview_desafio_10.png" width="300">
 
 --- 
 
@@ -71,7 +71,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, ond
 🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/projeto-portifolio/)
 
 #### Preview:
-<img src="projeto-portifolio/imagens/preview-projeto-portifolio.png" width="300">
+<img src="imagens/preview-projeto-portifolio.png" width="300">
 
 ---
 
