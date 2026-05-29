@@ -38,7 +38,7 @@ Acredito no aprendizado constante e no poder da tecnologia para transformar idei
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilene-carvalho&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
 
 </div>
 
@@ -58,7 +58,7 @@ Projeto desenvolvido com HTML e CSS, responsivo para Mobile, onde foi praticado 
 🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/desafio_10/)
 
 #### Preview:
-<img src="desafio_10/imagens/preview_desafio_10.png" width="300">
+<img src="https://raw.githubusercontent.com/dilene-carvalho/estudos/blob/main/desafio_10/imagens/preview_desafio_10.png" width="300">
 
 --- 
 
