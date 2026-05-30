@@ -3,8 +3,7 @@
 # Olá, eu sou a Dilene 👋
 
 💻 Desenvolvedora full stack em formação  
-🚀 Construindo minha jornada na tecnologia através de estudos, projetos e aprendizado contínuo  
-📚 Explorando desenvolvimento web e novas tecnologias  
+🚀 Construindo minha jornada na tecnologia através de estudos e  projetos, explorando desenvolvimento web e novas tecnologias  
 
 </div>
 
@@ -12,11 +11,10 @@
 
 ## ✨ Sobre mim
 
-Apaixonada por tecnologia, estou em transição de carreira para a área de desenvolvimento.
+Me formei em Análise e Desenvolvimento de Sistemas, em 2023, e de lá pra cá venho me dedicando através de cursos e capacitações para expandir minhas habilidades. Já atuei na área como Assistente de Suporte, onde pude vivenciar o dia a dia em uma empresa de tecnologia e aprender muito! Lá, também apoiava o time em integrações e no acompanhamento dos projetos.
 
-Atualmente estudo desenvolvimento web, lógica de programação, Git/GitHub e tecnologias voltadas ao front-end e fullstack, sempre buscando evoluir através de projetos práticos, cursos, eventos e desafios da área tech.
+Atualmente tenho um negócio próprio, a Integral Tech & Geek, que me proporcionou até aqui mais aprendizados, e uma grande bagagem em entendimento de negócio, compromisso e visão estratégica. Paralelamente, sigo com os estudos voltados ao desenvolvimento front-end/ fullstack, buscando sempre evoluir e me tornar uma grande profissional. 
 
-Acredito no aprendizado constante e no poder da tecnologia para transformar ideias em soluções reais. 
 
 ---
 
@@ -49,7 +47,21 @@ Acredito no aprendizado constante e no poder da tecnologia para transformar idei
 
 ( Em constante construção! ) ✨
 
-Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios e evolução na área de tecnologia.
+Aqui você encontrará projetos desenvolvidos durante meus estudos.
+
+
+### Portifólio responsivo 
+
+Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, onde foi praticado responsividade, estrutura de múltiplas seções, organização de conteúdo com Grid Layout e Flexbox, além do uso da opção "Modo Escuro". 
+
+🔗 Repositório: [Acesso ao código](https://github.com/dilene-carvalho/estudos/tree/main/projeto-portifolio)
+
+🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/projeto-portifolio/)
+
+#### Preview:
+<img src="imagens/preview-projeto-portifolio.png" width="300">
+
+---
 
 ### Landing Page 
 
@@ -64,18 +76,6 @@ Projeto desenvolvido com HTML e CSS, responsivo para Mobile, onde foi praticado 
 
 --- 
 
-### Portifólio responsivo 
-
-Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, onde foi praticado responsividade, estrutura de múltiplas seções, organização de conteúdo com Grid Layout e Flexbox, além do uso da opção "Modo Escuro". 
-
-🔗 Repositório: [Acesso ao código](https://github.com/dilene-carvalho/estudos/tree/main/projeto-portifolio)
-
-🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/projeto-portifolio/)
-
-#### Preview:
-<img src="imagens/preview-projeto-portifolio.png" width="300">
-
----
 
 ### Tela de Login (UI) 
 
@@ -114,7 +114,6 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
     />
   </a>
 
-  <!-- Outlook / Microsoft Email 
   <a href="mailto:dilenecarvalhoh@hotmail.com">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"
@@ -125,7 +124,6 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
     />
   </a>
 
-   WhatsApp 
   <a href="https://wa.me/5534984316169" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg"
@@ -137,7 +135,7 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
   </a>
 
 </p>
--->
+
 
 
 ---
