@@ -106,20 +106,20 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
   <a href="https://linkedin.com/in/dilene-carvalho/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-      width="50" alt="Linkedin" style="margin: 10px;"
+      width="40" alt="Linkedin" style="padding-left: 10px text-decoration: none;"
       />
   </a>
 
   <a href="mailto:dilenecarvalhoh@hotmail.com" target="_blank">
   <img
     src="https://cdn.simpleicons.org/gmail"
-    width="50"
+    width="40"
     alt="Email"
   />
 </a>
 
 <a href="https://wa.me/5534984316169" target="_blank">
-  <img src="https://cdn.simpleicons.org/whatsapp" width="50" alt="WhatsApp">
+  <img src="https://cdn.simpleicons.org/whatsapp" width="40" alt="WhatsApp">
 </a>
 
 </p>
