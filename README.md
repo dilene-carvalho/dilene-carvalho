@@ -101,9 +101,8 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
 
 ## 🌎 Onde me encontrar
 
-<p align="left">
+<p>
 
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/dilene-carvalho/" target="_blank">
     <img 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -111,19 +110,19 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
       />
   </a>
 
-  <a href="mailto:dilenecarvalhoh@hotmail.com">
+  <a href="mailto:dilenecarvalhoh@hotmail.com" target="_blank">
   <img
-    src="https://cdn.simpleicons.org/microsoftoutlook"
+    src="https://cdn.simpleicons.org/gmail"
     width="50"
     alt="Email"
   />
 </a>
 
-<a href="https://wa.me/5534984316169">
+<a href="https://wa.me/5534984316169" target="_blank">
   <img src="https://cdn.simpleicons.org/whatsapp" width="50" alt="WhatsApp">
 </a>
 
-
+</p>
 
 ---
 
