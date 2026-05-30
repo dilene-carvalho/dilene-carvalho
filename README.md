@@ -113,13 +113,12 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
   </a>
 
   <a href="mailto:dilenecarvalhoh@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <img src="https://cdn.simpleicons.org/microsoftoutlook" width="50">
 </a>
 
-<a href="https://wa.me/5534984316169" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="https://wa.me/5534984316169">
+  <img src="https://cdn.simpleicons.org/whatsapp" width="50">
 </a>
-</p>
 
 
 
