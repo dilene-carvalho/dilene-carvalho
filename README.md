@@ -109,31 +109,16 @@ Aprendizado contínuo em cursos, eventos e imersões voltadas para tecnologia, d
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       width="50"
       style="margin: 10px; transition: transform 0.3s;"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
+      />
   </a>
 
   <a href="mailto:dilenecarvalhoh@hotmail.com">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg"
-      width="50"
-      style="margin: 10px; transition: transform 0.3s;"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
 
-  <a href="https://wa.me/5534984316169" target="_blank">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg"
-      width="50"
-      style="margin: 10px; transition: transform 0.3s;"
-      onmouseover="this.style.transform='scale(1.2)'"
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </a>
-
+<a href="https://wa.me/5534984316169" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 </p>
 
 
