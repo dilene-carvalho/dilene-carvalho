@@ -54,7 +54,7 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos.
 
 Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, onde foi praticado responsividade, estrutura de múltiplas seções, organização de conteúdo com Grid Layout e Flexbox, além do uso da opção "Modo Escuro". 
 
-🔗 Repositório: [Acesso ao código](https://github.com/dilene-carvalho/estudos/tree/main/projeto-portifolio)
+🔗 Repositório: [Acesso ao código](https://github.com/dilene-carvalho/projeto-portifolio)
 
 🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/projeto-portifolio/)
 
@@ -67,7 +67,7 @@ Projeto desenvolvido com HTML, CSS e JavaScript, com abordagem Mobile First, ond
 
 Projeto desenvolvido com HTML e CSS, responsivo para Mobile, onde foi praticado diversos conceitos como Âncoras, Menus, Listas e Abreviações, dentre outros.
 
-🔗 Repositório: [Acesso ao código](https://github.com/dilene-carvalho/estudos/tree/main/desafio_10)
+🔗 Repositório: [Acesso ao código](https://github.com/dilene-carvalho/desafio_10)
 
 🌐 Acesse online: [Ver Projeto](https://dilene-carvalho.github.io/estudos/desafio_10/)
 
