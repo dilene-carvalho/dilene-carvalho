@@ -11,9 +11,9 @@
 
 ## ✨ Sobre mim
 
-Me formei em Análise e Desenvolvimento de Sistemas, em 2023, e de lá pra cá venho me dedicando através de cursos e capacitações para expandir minhas habilidades. Já atuei na área como Assistente de Suporte, onde pude vivenciar o dia a dia em uma empresa de tecnologia e aprender muito! Lá, também apoiava o time em integrações e no acompanhamento dos projetos.
+Me formei em Análise e Desenvolvimento de Sistemas, em 2023, e de lá pra cá venho me dedicando através de cursos e capacitações para expandir minhas habilidades. 
 
-Atualmente tenho um negócio próprio, a Integral Tech & Geek, que me proporcionou até aqui mais aprendizados, e uma grande bagagem em entendimento de negócio, compromisso e visão estratégica. Paralelamente, sigo com os estudos voltados ao desenvolvimento front-end/ fullstack, buscando sempre evoluir e me tornar uma grande profissional. 
+Atualmente tenho um negócio próprio, a Integral Tech & Geek, que me proporcionou até aqui mais aprendizados, e uma grande bagagem em entendimento de negócio, compromisso e visão estratégica. Paralelamente, sigo com os estudos voltados ao desenvolvimento front-end, buscando também novas tecnologias para atuação como full stack. 
 
 
 ---
